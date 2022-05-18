@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RW0", "RW0\RW0.csproj", "{7957054A-0535-4EE4-828F-6BBC927142D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RW1", "RW1\RW1.csproj", "{ABF306CA-0D77-4A3E-B755-7A8B2649A739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7957054A-0535-4EE4-828F-6BBC927142D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7957054A-0535-4EE4-828F-6BBC927142D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7957054A-0535-4EE4-828F-6BBC927142D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7957054A-0535-4EE4-828F-6BBC927142D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF306CA-0D77-4A3E-B755-7A8B2649A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF306CA-0D77-4A3E-B755-7A8B2649A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF306CA-0D77-4A3E-B755-7A8B2649A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF306CA-0D77-4A3E-B755-7A8B2649A739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
